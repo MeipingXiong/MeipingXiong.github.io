@@ -23,7 +23,7 @@ repository               : "MeipingXiong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/MeipingXiong.png"
+  avatar           : "../images/MeipingXiong.png"
   name             : "Meiping Xiong"
   pronouns         : # example: "she/her"  
   bio              : "Peking University"

@@ -26,11 +26,11 @@ author:
   avatar           : "images/MeipingXiong.png"
   name             : "Meiping Xiong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Peking University"
+  location         : "Beijing, China"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mpxiong@stu.pku.edu.cn" 
 
   # Academic websites
   academia         : # URL

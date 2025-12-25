@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "Meiping Xiong",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://meipingxiong.github.io/",
+    "summary": "Currently PhD student at Peking University",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [

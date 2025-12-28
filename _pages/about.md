@@ -64,11 +64,11 @@ Epilepsy Patient Follow-up Database Management (Dept. of Neurology, West China H
 
 # 🏥 Internship Experience
 
-- **Jan. 2022 – Mar. 2022** | West China Hospital, Sichuan University (Pediatric Surgery) 
+- **Jan. 2022 – Mar. 2022**, West China Hospital, Sichuan University (Pediatric Surgery) 
     - Position: Clinical Pharmacist Intern
-- **July 2021 – Dec. 2021** | West China Second University Hospital (Gynecologic Oncology / Pediatric Neurology)
+- **July 2021 – Dec. 2021**, West China Second University Hospital (Gynecologic Oncology / Pediatric Neurology)
     - Position: Clinical Pharmacist Intern
-- **Jan. 2021 – Apr. 2021** | AstraZeneca (Sichuan Provincial People's Hospital Oncology Group)
+- **Jan. 2021 – Apr. 2021**, AstraZeneca (Sichuan Provincial People's Hospital Oncology Group)
     - Position: Medical Representative Intern
 
 # 🏆 Honors and Awards

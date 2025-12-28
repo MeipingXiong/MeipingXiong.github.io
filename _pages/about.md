@@ -39,11 +39,6 @@ A novel therapeutic strategy for suppressing melanoma progression via autophagy 
 
 - More papers are being submitted, or please visit my [Google Scholar](https://scholar.google.com/citations?user=DRr5OegAAAAJ) to view all papers.
 
-# 🎖 Honors and Awards
-- *2020.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
-- *2019.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
-- *2018.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
-
 
 # 📖 Educations
 - *2025.09 - 2029.06 (excepted)*,  
@@ -76,7 +71,7 @@ Epilepsy Patient Follow-up Database Management (Dept. of Neurology, West China H
 - **Jan. 2021 – Apr. 2021** | AstraZeneca (Sichuan Provincial People's Hospital Oncology Group)
     - Position: Medical Representative Intern
 
-# 🏆 Honors & Awards
+# 🏆 Honors and Awards
 
 **Graduate Level (Peking University)**
 - **Sept. 2024**: Award for Social Work 
@@ -90,7 +85,7 @@ Epilepsy Patient Follow-up Database Management (Dept. of Neurology, West China H
 - **May 2018**: Third Prize, Integrity Speech Contest 
 - **Oct. 2017**: Excellence Award, Host Competition
 
-# 💼 Student Leadership & Activities
+# 💼 Student Leadership and Activities
 
 **Peking University**
 - **Secretary**, Youth League Branch, Dept. of Pharmaceutical Analysis 

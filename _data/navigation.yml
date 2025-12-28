@@ -7,22 +7,22 @@ main:
     url: "/#-news"
 
   - title: "Selected Publications"
-    url: "/#-selected-publications"
-
-  - title: "Collaboration Papers"
-    url: "/#-collaboration-papers"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-selected-publications" 
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Talking and Teaching"
-    url: "/#-talking-and-teaching"
+  - title: "Research Experience"
+    url: "/#-research-experience"
 
-  - title: "Professional Service"
-    url: "/#-professional-service"
+  - title: "Internship Experience"
+    url: "/#-internship-experience"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Student Leadership and Activities"
+    url: "/#-student-leadership-and-activities"
 
   # - title: "Internships"
   #   url: "/#-internships"

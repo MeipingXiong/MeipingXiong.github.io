@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Meiping Xiong <font face="楷体" >(熊美萍)</font>**, a Ph.D. candidate in School of Pharmaceutical Sciences, Peking University, advised by [Prof. Xianchan Li](https://dpa.bjmu.edu.cn/gbenglish/Faculty2022/Professor/2aba88aca18b4ad39b1eb00785a138f1.htm). I received my B.S. degree from West China School of Pharmacy, Sichuan University, China. My research interests include drug analysis, neurobioelectric analysis, and regulatory mechanisms of neurodegenerative diseases. 
+I'm **Meiping Xiong <font face="楷体" >(熊美萍)</font>**, a Ph.D. candidate in School of Pharmaceutical Sciences, Peking University, advised by [Prof. Xianchan Li](https://dpa.bjmu.edu.cn/gbenglish/Faculty2022/Professor/2aba88aca18b4ad39b1eb00785a138f1.htm). I received my B.S. degree from West China School of Pharmacy, Sichuan University, China. My research interests include medicine analysis, neurobioelectric analysis, and regulatory mechanisms of neurodegenerative diseases. 
 
 # 🔥 News
 

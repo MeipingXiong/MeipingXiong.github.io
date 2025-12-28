@@ -28,6 +28,7 @@ I'm **Meiping Xiong <font face="楷体" >(熊美萍)</font>**, a Ph.D. candidate
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pharmacological Research 2021</div><img src='images/EAGLE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Repurposing of antipsychotic trifluoperazine for treating brain metastasis, lung metastasis and bone metastasis of melanoma by disrupting autophagy flux](https://www.sciencedirect.com/science/article/abs/pii/S1043661820316030) 
+
 Yong Xia, Fuyan Xu, **Meiping Xiong**, Hao Yang, Wentao Lin, Yao Xie, Huizhi Xi, Qiang Xue, Tinghong Ye, Luoting Yu
 
 Pharmacological Research,  

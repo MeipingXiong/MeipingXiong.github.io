@@ -56,32 +56,15 @@ Master of Pharmacy
 West China School of Pharmacy, Sichuan University, China.  
 Bachelor of Clinical Pharmacy
 
-# 🎤 Talking and Teaching
-- *2024.6.27* Share a talk with **Tokyo Institute of Technology** online: [Interpretation of the Foundation Model: Concepts, Challenges, and Applications](https://ruoyuchen10.github.io/slide/Ruoyu_Chen_UCAS-foundation_model_interpretation.pdf)
-- *2024.5.10* Give an **oral presentation** in Vienna at ICLR 24 conference ([**Slide**](https://iclr.cc/media/iclr-2024/Slides/19733.pdf))
-- *2024.2.28* Share a ICLR 24 paper "[Less is More: Fewer Interpretable Region via Submodular Subset Selection](https://ruoyuchen10.github.io/slide/AITime_less-is-more.pdf)" at **AI Time**
-- *2023.12.26* Taught the undergraduate course "[Explainable Artificial Intelligence](https://ruoyuchen10.github.io/talk/Ruoyu_Chen-Teaching-XAI_SYSU.pdf)" at **Shenzhen Campus of Sun Yat-sen University**
-- *2023.10.20* Share a technical review "[Survey on the interpretability of foundation models](https://ruoyuchen10.github.io/talk/Ruoyu_Chen-Interpretation_of_foundation_model.pdf)"
+# 🔬 Research Experience
 
-# 💬 Professional Service
+- *2022 – Present*, 
+Quantitative Analysis of Acetylcholine Release from Single Neuronal Vesicles using Liquid-Liquid Interface Electrodes **(Project Leader)**
+- *2020 – 2021*, 
+Mechanism of Trifluoperazine Hydrochloride against Melanoma and its Metastasis **(Core Member)**
+- *2020 – 2021*,
+Exploration and Implementation of Voriconazole TDM Pharmaceutical Care Model based on Precision Medicine **(Core Member)**
+- *2021 – 2022*,
+Epilepsy Patient Follow-up Database Management (Dept. of Neurology, West China Hospital, **Key Member**)
 
-### Journal Reviewer
-
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
-- IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)
-- Pattern Recognition
-- Knowledge-based Systems
-
-### Conference Reviewer
-
-- CVPR 23, 24, 25
-- ICLR 24
-- NeurIPS 23, 24, NeurIPS 25 Datasets and Benchmarks Track
-- ICML 23, 24, 25
-- ICCV 23
-- ECCV 22, 24
-- AAAI 2026, AAAI 2026 AI Alignment Track
-- ACM MM 25
-- The 3rd Workshop for Out-of-Distribution Generalization in Computer Vision Foundation Models
-- COLM 2025 Workshop XLLM-Reason-Plan
-- The 1st MICCAI Workshop on Human-AI Collaboration
+# 🏥 Internship Experience

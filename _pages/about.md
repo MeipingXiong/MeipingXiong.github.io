@@ -68,3 +68,35 @@ Exploration and Implementation of Voriconazole TDM Pharmaceutical Care Model bas
 Epilepsy Patient Follow-up Database Management (Dept. of Neurology, West China Hospital, **Key Member**)
 
 # 🏥 Internship Experience
+
+- **Jan. 2022 – Mar. 2022** | West China Hospital, Sichuan University (Pediatric Surgery) 
+    - Position: Clinical Pharmacist Intern
+- **July 2021 – Dec. 2021** | West China Second University Hospital (Gynecologic Oncology / Pediatric Neurology)
+    - Position: Clinical Pharmacist Intern
+- **Jan. 2021 – Apr. 2021** | AstraZeneca (Sichuan Provincial People's Hospital Oncology Group)
+    - Position: Medical Representative Intern
+
+# 🏆 Honors & Awards
+
+**Graduate Level (Peking University)**
+- **Sept. 2024**: Award for Social Work 
+- **May 2024**: Outstanding Youth League Cadre, School of Pharmaceutical Sciences 
+- **Oct. 2023**: Outstanding Student Cadre, School of Pharmaceutical Sciences
+
+**Undergraduate Level (Sichuan University)**
+- **Sept. 2020**: Second Class Individual Scholarship 
+- **Sept. 2019**: First Class Individual Scholarship 
+- **Sept. 2018**: Comprehensive Third Class Scholarship 
+- **May 2018**: Third Prize, Integrity Speech Contest 
+- **Oct. 2017**: Excellence Award, Host Competition
+
+# 💼 Student Leadership & Activities
+
+**Peking University**
+- **Secretary**, Youth League Branch, Dept. of Pharmaceutical Analysis 
+- **Organization Committee Member**, Dept. of Pharmaceutical Analysis 
+
+**Sichuan University**
+- **President**, MSD (Merck Sharp & Dohme) Club at Sichuan University 
+- **Vice Minister**, Girls' Department, Student Union 
+- **Study Commissary**, West China School of Pharmacy

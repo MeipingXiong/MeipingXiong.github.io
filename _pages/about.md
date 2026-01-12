@@ -41,43 +41,43 @@ A novel therapeutic strategy for suppressing melanoma progression via autophagy 
 
 
 # 📖 Educations
-<table>
- <tr>
-  <td width="120" align="center">
-      <img src="assets/pku.png" width="90"/>
-  </td>
-  <td>
-   <b>School of Pharmaceutical Sciences, Peking University, China</b><br>
-   Ph.D. Candidate<br>
-   Aug. 2025 – Present<br>
-  </td>
- </tr>
+<table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0">
+  <tr style="border:none;">
+    <td width="120" align="center" style="border:none; padding:0 16px 0 0;">
+      <img src="assets/pku.png" width="90" />
+    </td>
+    <td style="border:none; padding:0;">
+      <b>School of Pharmaceutical Sciences, Peking University, China</b><br>
+      Ph.D. Candidate<br>
+      Aug. 2025 – Present<br>
+    </td>
+  </tr>
 </table>
 
-<table>
- <tr>
-  <td width="120" align="center">
-      <img src="assets/pku.png" width="90"/>
-  </td>
-  <td>
-   <b>School of Pharmaceutical Sciences, Peking University, China</b><br>
-   Master in Pharmacy<br>
-   Aug. 2022 – Jun. 2025<br>
-  </td>
- </tr>
+<table style="border:none;border-collapse:collapse; margin-top:10px;" cellspacing="0" cellpadding="0">
+  <tr style="border:none;">
+    <td width="120" align="center" style="border:none; padding:0 16px 0 0;">
+      <img src="assets/pku.png" width="90" />
+    </td>
+    <td style="border:none; padding:0;">
+      <b>School of Pharmaceutical Sciences, Peking University, China</b><br>
+      Master in Pharmacy<br>
+      Aug. 2022 – Jun. 2025<br>
+    </td>
+  </tr>
 </table>
 
-<table>
- <tr>
-  <td width="120" align="center">
-      <img src="assets/scu.png" width="90"/>
-  </td>
-  <td>
-   <b>West China School of Pharmacy, Sichuan University, China</b><br>
-   Bachelor in Clinical Pharmacy<br>
-   Aug. 2017 – Jun. 2022<br>
-  </td>
- </tr>
+<table style="border:none;border-collapse:collapse; margin-top:10px;" cellspacing="0" cellpadding="0">
+  <tr style="border:none;">
+    <td width="120" align="center" style="border:none; padding:0 16px 0 0;">
+      <img src="assets/scu.png" width="90" />
+    </td>
+    <td style="border:none; padding:0;">
+      <b>West China School of Pharmacy, Sichuan University, China</b><br>
+      Bachelor in Clinical Pharmacy<br>
+      Aug. 2017 – Jun. 2022<br>
+    </td>
+  </tr>
 </table>
 
 

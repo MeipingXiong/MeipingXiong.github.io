@@ -41,15 +41,46 @@ A novel therapeutic strategy for suppressing melanoma progression via autophagy 
 
 
 # 📖 Educations
-- *2025.09 - 2029.06 (excepted)*,  
-School of Pharmaceutical Sciences, Peking University, China.  
-Ph.D. Candidate
-- *2022.09 - 2025.06*,  
-School of Pharmaceutical Sciences, Peking University, China.  
-Master of Pharmacy 
-- *2017.09 - 2022.06*,  
-West China School of Pharmacy, Sichuan University, China.  
-Bachelor of Clinical Pharmacy
+<table>
+ <tr>
+  <td width="120" align="center">
+      <img src="assets/pku.png" width="90"/>
+  </td>
+  <td>
+   <b>School of Pharmaceutical Sciences, Peking University, China</b><br>
+   Ph.D. Candidate<br>
+   Aug. 2025 – Present<br>
+  </td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <td width="120" align="center">
+      <img src="assets/pku.png" width="90"/>
+  </td>
+  <td>
+   <b>School of Pharmaceutical Sciences, Peking University, China</b><br>
+   Master in Pharmacy<br>
+   Aug. 2022 – Jun. 2025<br>
+  </td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <td width="120" align="center">
+      <img src="assets/scu.png" width="90"/>
+  </td>
+  <td>
+   <b>West China School of Pharmacy, Sichuan University, China</b><br>
+   Bachelor in Clinical Pharmacy<br>
+   Aug. 2017 – Jun. 2022<br>
+  </td>
+ </tr>
+</table>
+
+
 
 # 🔬 Research Experience
 
